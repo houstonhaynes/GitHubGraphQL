@@ -1,0 +1,7 @@
+{
+    "schema": "./schema.docs.json",
+    "queries": "./queries",
+    "project": "GitHubGQL",
+    "output": "./SnowflaqeClient",
+    "target": "fsharp"
+}
